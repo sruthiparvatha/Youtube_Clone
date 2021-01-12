@@ -1,0 +1,4 @@
+Deploying Website on Firebase through the terminal in windows machine
+
+1) Need to set the execution policy
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
